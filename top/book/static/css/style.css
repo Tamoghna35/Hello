@@ -1,0 +1,18 @@
+#head
+{
+	height:150px;
+	width:auto;
+	background:linear-gradient(green,yellow);
+}
+#bd
+{
+	height:350px;
+	width:auto;
+	background:linear-gradient(lightblue,black);
+}
+#foot
+{
+	height:150px;
+	width:auto;
+	background:linear-gradient(green,yellow);
+}
